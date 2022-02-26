@@ -1,4 +1,4 @@
-![I'm a Product Designer & Design Technologist](https://pbs.twimg.com/profile_banners/373986462/1484253834/1500x500)
+![I'm a Product Designer & Design Technologist](https://media-exp1.licdn.com/dms/image/C5616AQHR-gviHrogUQ/profile-displaybackgroundimage-shrink_350_1400/0/1517449944940?e=1651104000&v=beta&t=IvygnAhB61y6YmVXDHwhQShEZ-ELqkgl2gIOb6TRdKw)
 
 ### Hi there 👋, my name is Haaruun
 ##
