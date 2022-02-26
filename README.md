@@ -5,7 +5,15 @@
 
 I'm a Product Designer and Design Technologist based in Canada. I use my design and coding skills to create and build great experiences. 
 
-Skills: UX / UI / PRODUCT / REACT / JS / HTML / CSS
+## Skills and Experiences 
+* React
+* UX 
+* UI 
+* PRODUCT 
+* REACT 
+* JS 
+* HTML 
+* CSS
 
 
 
